@@ -2,11 +2,11 @@
     "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
     "maintainer": {
         "contact": {
-            "web": "https://www.kicad.org/about/contact-us/"
+            "web": "https://osholt.co.uk"
         },
-        "name": "KiCad team"
+        "name": "Oliver Holt"
     },
-    "name": "KiCad official repository",
+    "name": "osholt's Plugin Repo",
     "packages": {
         "sha256": "eab4be1a1cb39875f25898e26707c7a03d58b44bb602f6819239eae68d9307a4",
         "update_time_utc": "2022-05-05 11:04:08",

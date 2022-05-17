@@ -34,5 +34,10 @@ cd ../..
 
 # create packages.json
 python3 ci/build-packages.py ./metadata/
+
+cp artifacts/packages.json .
+cp artifacts/resources.zip .
+
 rm -rvf artifacts > /dev/null
 rm -rvf metadata > /dev/null
+
