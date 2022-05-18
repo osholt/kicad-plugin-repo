@@ -22,7 +22,7 @@
             },
             "name": "osholt's Test Plugin",
             "resources": {
-                "homepage": "https://github.com/osholt/kicad-test-pluginn"
+                "homepage": "https://github.com/osholt/kicad-test-plugin"
             },
             "tags": [
                 "test",
