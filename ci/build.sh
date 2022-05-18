@@ -43,4 +43,11 @@ rm -rvf metadata > /dev/null
 
 #code to commit changes to packages.json and resources.zip
 
+git commit packages.json -m "Packages.json updated"
+git commit resources.zip -m "Resources.zip updated"
+
 #code to update repository.json based on most recent commit of packages and resources.zip
+python3 ci/update.py
+
+git commit repository.json -m "Repository.json updated"
+
