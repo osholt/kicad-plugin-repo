@@ -22,7 +22,7 @@
             },
             "name": "osholt's Test Plugin",
             "resources": {
-                "homepage": "https://github.com/osholt/kicad-test-pluginn"
+                "homepage": "https://github.com/osholt/kicad-test-plugin"
             },
             "tags": [
                 "test",
@@ -32,10 +32,10 @@
             "type": "plugin",
             "versions": [
                 {
-                    "download_sha256": "09da3a06b3912daadc0530abc5722a9660b547ef24db3a802ddc2e262e4c2ef3",
-                    "download_size": 356300,
-                    "download_url": "https://github.com/4ms/4ms-kicad-lib/releases/download/1.0.1/4ms-kicad-lib-PCM-1.0.1.zip",
-                    "install_size": 2060685,
+                    "download_sha256": "147449eff42f571723af685b6b97156ff686e9f3feb81dc0cf3f670e7d30b10e",
+                    "download_size": 8221,
+                    "download_url": "https://github.com/osholt/kicad-test-plugin/releases/download/v0.0.1/Archive.zip",
+                    "install_size": 14271,
                     "kicad_version": "6.0",
                     "status": "stable",
                     "version": "0.0.1"
