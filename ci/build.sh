@@ -41,3 +41,6 @@ cp artifacts/resources.zip .
 rm -rvf artifacts > /dev/null
 rm -rvf metadata > /dev/null
 
+#code to commit changes to packages.json and resources.zip
+
+#code to update repository.json based on most recent commit of packages and resources.zip
