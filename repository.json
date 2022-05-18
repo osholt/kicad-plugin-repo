@@ -1,1 +1,12 @@
-{"$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository", "maintainer": {"contact": {"web": "https://osholt.co.uk"}, "name": "Oliver Holt"}, "name": "osholt's Plugin Repo", "packages": {"sha256": "7ecd7d48fd6917fbaf57078ad300ffc5c28cf7e1de5409b5ae5afe04ee4345a8", "update_time_utc": "2022-05-18 13:59:07", "update_timestamp": 1652878747, "url": "https://raw.githubusercontent.com/osholt/kicad-plugin-repo/main/repository.json"}, "resources": {"sha256": "50d5d0e05d37a25624df30666b00b9149d9484ed99a3a46b4315d9185ebfd340", "update_time_utc": "2022-05-18 13:59:07", "update_timestamp": 1652878747, "url": "https://github.com/osholt/kicad-plugin-repo/blob/main/resources.zip?raw=true"}}
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+     "maintainer": {"contact": {"web": "https://osholt.co.uk"},
+      "name": "Oliver Holt"}, "name": "osholt's Plugin Repo",
+       "packages": 
+       {
+           "sha256": "7ecd7d48fd6917fbaf57078ad300ffc5c28cf7e1de5409b5ae5afe04ee4345a8",
+         "update_time_utc": "2022-05-18 13:59:07",
+          "update_timestamp": 1652878747,
+           "url": "https://raw.githubusercontent.com/osholt/kicad-plugin-repo/main/packages.json"},
+            "resources":
+             {"sha256": "50d5d0e05d37a25624df30666b00b9149d9484ed99a3a46b4315d9185ebfd340", "update_time_utc": "2022-05-18 13:59:07", "update_timestamp": 1652878747, "url": "https://github.com/osholt/kicad-plugin-repo/blob/main/resources.zip?raw=true"}}
