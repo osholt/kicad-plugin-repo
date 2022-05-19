@@ -75,7 +75,7 @@
             "type": "plugin",
             "versions": [
                 {
-                    "download_sha256": "fda817b18a2f01c95c37bc61eeeb814bf0346d423c7d7df362e99feacefcd377",
+                    "download_sha256": "a018a881c1903a8eb4a9329eb07fb625accf7f619542f5a7e60e4d0c77839869",
                     "download_size": 10776,
                     "download_url": "https://github.com/osholt/kicad-design-rule-helper/releases/download/v0.0.1/Archive.zip",
                     "install_size": 17080,
