@@ -70,14 +70,13 @@
                 "design",
                 "rules",
                 "automation",
-                "helper",
-                "DRC"
+                "helper"
             ],
             "type": "plugin",
             "versions": [
                 {
-                    "download_sha256": "00ef1d3a12180905aea1c3ea5a6beb547f58a2a5a9029f94a6a412dc29725164",
-                    "download_size": 10777,
+                    "download_sha256": "fda817b18a2f01c95c37bc61eeeb814bf0346d423c7d7df362e99feacefcd377",
+                    "download_size": 10776,
                     "download_url": "https://github.com/osholt/kicad-design-rule-helper/releases/download/v0.0.1/Archive.zip",
                     "install_size": 17080,
                     "kicad_version": "6.0",
