@@ -41,6 +41,50 @@
                     "version": "0.0.2"
                 }
             ]
+        },
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "author": {
+                "contact": {
+                    "email": "oh292@bath.ac.uk",
+                    "web": "https://people.bath.ac.uk/oh292"
+                },
+                "name": "Oliver Holt"
+            },
+            "description": "A plugin to help in the creation of custom design rules between net classes.",
+            "description_full": "This plugin will help generate clearances between nets based on applicable standards and assist in the generation and assignment of net classes.",
+            "identifier": "com.github.osholt.kicad-design-rule-helper",
+            "license": "MIT",
+            "maintainer": {
+                "contact": {
+                    "email": "oh292@bath.ac.uk",
+                    "web": "https://people.bath.ac.uk/oh292"
+                },
+                "name": "Oliver Holt"
+            },
+            "name": "KiCad Design Rule Helper",
+            "resources": {
+                "homepage": "https://github.com/osholt/kicad-design-rule-helper"
+            },
+            "tags": [
+                "design",
+                "rules",
+                "automation",
+                "helper",
+                "DRC"
+            ],
+            "type": "plugin",
+            "versions": [
+                {
+                    "download_sha256": "fcbf34e4ef6ade437d29314e52ae4c2d154cb692f3ac09e10e51821d0ca5f68a",
+                    "download_size": 10780,
+                    "download_url": "https://github.com/osholt/kicad-design-rule-helper/releases/download/v0.0.1/Archive.zip",
+                    "install_size": 17087,
+                    "kicad_version": "6.0",
+                    "status": "stable",
+                    "version": "0.0.1"
+                }
+            ]
         }
     ]
 }
