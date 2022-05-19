@@ -32,7 +32,7 @@
             "type": "plugin",
             "versions": [
                 {
-                    "download_sha256": "098ad585d42efbb759c891e66e281879b93b56973528570d83b959decc86d3c3",
+                    "download_sha256": "301c75bc626e0e8f3bac7659461face1a734dc3a21782b24a82c10ddc5b95959",
                     "download_size": 13994,
                     "download_url": "https://github.com/osholt/kicad-test-plugin/releases/download/v0.0.2/Archive.zip",
                     "install_size": 25530,
