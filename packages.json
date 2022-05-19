@@ -39,15 +39,6 @@
                     "kicad_version": "6.0",
                     "status": "stable",
                     "version": "0.0.2"
-                },
-                {
-                    "download_sha256": "8738cec94252e1861c33923017ae540942874c3c4f9f000d8826113be41825ea",
-                    "download_size": 3762,
-                    "download_url": "https://github.com/osholt/kicad-test-plugin/releases/download/v0.0.1/Archive.zip",
-                    "install_size": 3387,
-                    "kicad_version": "6.0",
-                    "status": "stable",
-                    "version": "0.0.1"
                 }
             ]
         }
