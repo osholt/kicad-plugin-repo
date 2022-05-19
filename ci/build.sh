@@ -51,3 +51,4 @@ python3 ci/update.py
 
 git commit repository.json -m "Repository.json updated"
 
+git push
